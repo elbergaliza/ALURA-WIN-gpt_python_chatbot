@@ -4,8 +4,6 @@ Repositorio do curso da ALURA
 
 Execução do curso ALURA - Python e GPT: crie seu chatbot com IA
 
-
-
 ## Tópicos abordados no curso
 
 * Integre chatbots com APIs OpenAI utilizando Python
@@ -15,16 +13,11 @@ Execução do curso ALURA - Python e GPT: crie seu chatbot com IA
 * Use Functions Calling para expandir as capacidades dos chatbots
 * Aplique a visão computacional para reconhecimento e interpretação de imagens
 
-
 **Ambiente:** Windows
-
-
 
 **Bibliotecas instaladas:** pendente
 
 pip install -r requirements.txt
-
-
 
 **Criando e Ativando o Ambiente Virtual:**
 python -m venv .venv
